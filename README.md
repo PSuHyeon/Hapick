@@ -1,4 +1,7 @@
 # Hapick
 cs492 wearable interface project: Hapick
 
-Distance hotkey input system with rotational menu selection with haptic feedback mechanism
+## Distance hotkey input system
+1. Rotational menu selection
+2. Haptic feedback
+3. continuous input
